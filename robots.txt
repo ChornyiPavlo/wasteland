@@ -2,5 +2,5 @@ User-Agent: *
 Disallow:
 
 
-Sitemap: http://pinaz.wastelandecho.click/sitemap.xml
-Host: pinaz.wastelandecho.click
+Sitemap: http://pinupaz.lezzetinpizza.pro/sitemap.xml
+Host: pinupaz.lezzetinpizza.pro
